@@ -4,3 +4,6 @@ Answer: it is a very commonly used tool in software development jobs
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: data science could be applied in many business fields as there is a lot of data involved in business that helps them make their decisions. one example would be to analyze customer behaviors in order to tailor more to their interests.
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: git rebase is the process of moving/combining a series of commits to a new base commit while merging involves putting together two branches. 
