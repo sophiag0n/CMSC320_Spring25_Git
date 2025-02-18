@@ -7,3 +7,6 @@ Answer: data science could be applied in many business fields as there is a lot 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: git rebase is the process of moving/combining a series of commits to a new base commit while merging involves putting together two branches. 
+Q4: What are you looking forward to this semester?
+
+Answer: learning data science!
